@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
 .technology {
     min-height: 1019px;
 }
@@ -19,7 +23,6 @@
 }
 
 .technology_small {
-    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -31,7 +34,6 @@
 }
 
 .technology_title {
-    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 700;
     font-size: 38px;
@@ -72,7 +74,6 @@
 }
 
 .techology_num {
-    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -83,7 +84,6 @@
 }
 
 .techology_itemtitle {
-    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -95,7 +95,6 @@
 
 
 .technology_itemtext {
-    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
